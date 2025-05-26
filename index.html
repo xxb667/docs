@@ -43,6 +43,7 @@
 
     <script>
         window.$docsify = {
+          router: 'history',
             // 项目名称
             name: 'Docsify-Guide',
             // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
@@ -63,7 +64,21 @@
             mergeNavbar: true,
 
             markdown: {
-        latexRender: katex.renderToString.bind(katex)
+        latexRender: katex.renderToString.bind(katex),
+
+  
+      //  给pdf命名为自己的名字
+        renderer: {
+        code: function (code, lang) {
+          if (lang === 'pdf') {
+            return `<div style="margin-top:20px; margin-bottom:20px;">
+                      <a href="${code}" target="_blank">${code.split('/').pop()}</a>
+                    </div>`;
+          }
+          return this.origin.code.apply(this, arguments);
+        }
+      }
+
       },
 
 
@@ -102,17 +117,7 @@
     <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 
 
-    <!-- <script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
-<script src="//cdn.jsdelivr.net/npm/marked@4"></script>  -->
 
-<!-- CDN files for docsify-katex -->
-<!-- <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script> -->
-<!-- or  -->
- <!-- <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
-  
-
-<!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
 
 <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 
@@ -131,6 +136,19 @@
   });
 </script>
 <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+<!-- PDFObject.js is a required dependency of this plugin -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> 
+<!-- This is the source code of the pdf embed plugin -->
+<script src="path-to-file/docsify-pdf-embed.js"></script>
+<!-- or use this if you are not hosting the file yourself -->
+<script src="//unpkg.com/docsify-pdf-embed-plugin/src/docsify-pdf-embed.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.css">
+
 
 
 
