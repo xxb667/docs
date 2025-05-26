@@ -1,4 +1,12 @@
 <!-- _navbar.md -->
+* [书籍](./Article/dl/README.md)
+  - ```pdf
+    Article/《深度学习入门：基于Python的理论与实现》高清中文版.pdf
+    ```
+  - ```pdf
+    Article/Deeplearning深度学习笔记v5.72.pdf
+    ```
+
 * [深度学习](./Article/dl/README.md)
   - [第1周-深度学习概述](Article/dl/第1周-深度学习概述.md)
   - [第1周作业题-numpy构建基本函数](Article/dl/第1周作业题-numpy构建基本函数.md)
