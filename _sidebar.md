@@ -9,6 +9,12 @@
   - [第3周作业-1层隐藏层的神经网络分类二维数据](Article/dl/第3周作业-1层隐藏层的神经网络分类二维数据.md)
   - [第4周_深层神经网络](Article/dl/第4周_深层神经网络.md)
   - [第4周_作业题_逐步构建你的深度神经网络](Article/dl/第4周_作业题_逐步构建你的深度神经网络.md)
+  - ```pdf
+    Article/《深度学习入门：基于Python的理论与实现》高清中文版.pdf
+    ```
+  - ```pdf
+    Article/Deeplearning深度学习笔记v5.72.pdf
+    ```
 
 * [网络安全](./Article/aq/readme.md)
 
