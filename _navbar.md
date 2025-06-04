@@ -1,10 +1,22 @@
 <!-- _navbar.md -->
-* [书籍](./Article/dl/README.md)
+* [电子书](./book/README.md)
+  - [心理类](book\心理\README.md)
+  - [玄学类](book\周易\README.md)
+  - [深度学习](Article\README.md)
+
+
+* [AIBook](./Article/dl/README.md)
   - ```pdf
     Article/《深度学习入门：基于Python的理论与实现》高清中文版.pdf
     ```
   - ```pdf
+    Article/深度学习进阶：自然语言处理.pdf
+    ```
+  - ```pdf
     Article/Deeplearning深度学习笔记v5.72.pdf
+    ```
+  - ```pdf
+    Article\d2l-zh-pytorch-2.0.0.pdf
     ```
 
 * [深度学习](./Article/dl/README.md)
@@ -18,7 +30,19 @@
   - [第4周_作业题_逐步构建你的深度神经网络](Article/dl/第4周_作业题_逐步构建你的深度神经网络.md)
 
 
-* [网络安全]()
+* [网络安全](Article\aq\readme.md)
+    - ```pdf
+        Article/aq/《白帽子讲Web安全》 吴翰清.pdf
+        ```
+    - ```pdf
+        Article/aq/渗透攻击与安防修炼.pdf
+        ```
+    - ```pdf
+        Article/aq/图解网络硬件.pdf
+        ```
+    - ```pdf
+        Article/aq/一本书读懂TCPIP.pdf
+        ```
 
 
 * 链接到我
