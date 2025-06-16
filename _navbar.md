@@ -1,9 +1,37 @@
 <!-- _navbar.md -->
+
+* [鸢尾花书](./book/Book系列/README.md)
+  - ```pdf
+      book/Book系列/[BOOK1]编程不难.pdf
+      ```
+  - ```pdf
+      book/Book系列/[BOOK2]可视之美.pdf
+      ```
+  - ```pdf
+      book/Book系列/[BOOK3]数学要素.pdf
+      ```
+  - ```pdf
+      book/Book系列/[BOOK4]矩阵力量.pdf
+      ```
+  - ```pdf
+      book/Book系列/[BOOK5]统计至简.pdf
+      ```
+  - ```pdf
+      book/Book系列/[BOOK6]数据有道.pdf
+      ```
+  - ```pdf
+      book/Book系列/[BOOK7]机器学习.pdf
+      ```
+
 * [电子书](./book/README.md)
   - [心理类](book\心理\README.md)
   - [玄学类](book\周易\README.md)
   - [深度学习](Article\README.md)
   - [网络安全](Article\aq\readme.md)
+  - [鸢尾花书](book\Book系列\README.md)
+  - [数据处理](book\数据处理\README.md)
+  - [清华Deepseek](book\清华deepseek\README.md)
+  - [其他Deepseek](book\Deepseek相关\README.md)
 
 
 * [AIBook](./Article/dl/README.md)
@@ -33,11 +61,20 @@
 
 * [网络安全](Article\aq\readme.md)
     - ```pdf
+        Article/aq/《白帽子讲Web安全》 吴翰清.pdf
+        ```
+    - ```pdf
+        Article/aq/渗透攻击与安防修炼.pdf
+        ```
+    - ```pdf
+        Article/aq/图解网络硬件.pdf
+        ```
+    - ```pdf
         Article/aq/网络系统集成与综合布线 （第2版）.pdf
-      ```
+        ```
     - ```pdf
         Article/aq/一本书读懂TCPIP.pdf
-      ```
+        ```
 
 
 * 链接到我
