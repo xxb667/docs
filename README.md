@@ -60,6 +60,23 @@
   - ```pdf
       Article/d2l-zh-pytorch-2.0.0.pdf
       ```
+## 编程
+  - ```pdf
+      book/编程/从放弃c语言到使用c++刷算法的简明教程.pdf
+      ```
+  - ```pdf
+      book/编程/hello-algo_1.2.0_zh_cpp.pdf
+      ```
+  - ```pdf
+      book/编程/hello-algo_1.2.0_zh_python.pdf
+      ```
+  - ```pdf
+      book/编程/Latex相关用法.pdf
+      ```
+  - ```pdf
+      book/编程/python知识点汇总2.2版.pdf
+      ```
+
 ## 网络安全
   - ```pdf
         Article/aq/《白帽子讲Web安全》 吴翰清.pdf
