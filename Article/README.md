@@ -12,3 +12,6 @@
 - ```pdf
     Article/d2l-zh-pytorch-2.0.0.pdf
     ```
+- ```pdf
+    Article/深度学习入门基于python1.pdf
+    ```

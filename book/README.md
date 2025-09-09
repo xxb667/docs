@@ -31,6 +31,9 @@
 - ```pdf
     Article/d2l-zh-pytorch-2.0.0.pdf
     ```
+- ```pdf
+    Article/深度学习入门基于python1.pdf
+    ```
 
 ## 鸢尾花书
   - ```pdf
@@ -61,6 +64,9 @@
 ## 编程
 - ```pdf
     book/编程/从放弃c语言到使用c++刷算法的简明教程.pdf
+    ```
+- ```pdf
+    book/编程/CC++程序设计竞赛真题实战特训教程（图解版）.pdf
     ```
 - ```pdf
     book/编程/hello-algo_1.2.0_zh_cpp.pdf

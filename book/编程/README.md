@@ -3,6 +3,9 @@
     book/编程/从放弃c语言到使用c++刷算法的简明教程.pdf
     ```
 - ```pdf
+    book/编程/CC++程序设计竞赛真题实战特训教程（图解版）.pdf
+    ```
+- ```pdf
     book/编程/hello-algo_1.2.0_zh_cpp.pdf
     ```
 - ```pdf
