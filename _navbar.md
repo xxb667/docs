@@ -1,4 +1,17 @@
 <!-- _navbar.md -->
+* [动手学深度学习](./book/动手学深度学习web版/README.md)
+  - [第2章-预备知识](book/动手学深度学习web版/第2章-预备知识/README.md)
+  - [第3章-线性神经网络](book/动手学深度学习web版/第3章-线性神经网络/README.md)
+  - [第4章-多层感知机](book/动手学深度学习web版/第4章-多层感知机/README.md)
+  - [第5章-深度学习计算](book/动手学深度学习web版/第5章-深度学习计算/README.md)
+  - [第6章-卷积神经网络](book/动手学深度学习web版/第6章-卷积神经网络/README.md)
+  - [第7章-现代卷积神经网络](book/动手学深度学习web版/第7章-现代卷积神经网络/README.md)
+  - [第8章-循环神经网络](book/动手学深度学习web版/第8章-循环神经网络/README.md)
+  - [第9章-现代循环神经网络](book/动手学深度学习web版/第9章-现代循环神经网络/README.md)
+  - [第10章-注意力机制](book/动手学深度学习web版/第10章-注意力机制/README.md)
+  - [第12章-计算性能](book/动手学深度学习web版/第12章-计算性能/README.md)
+  - [第13章-计算机视觉](book/动手学深度学习web版/第13章-计算机视觉/README.md)
+  - [第14章-预训练](book/动手学深度学习web版/第14章-预训练/README.md)
 
 * [鸢尾花书](./book/Book系列/README.md)
   - ```pdf
@@ -52,6 +65,7 @@
   - [数据处理](book\数据处理\README.md)
   - [清华Deepseek](book\清华deepseek\README.md)
   - [其他Deepseek](book\Deepseek相关\README.md)
+  - [动手学深度学习](book\动手学深度学习web版\README.md)
 
 
 * [AIBook](./Article/dl/README.md)
