@@ -1,5 +1,5 @@
 <!-- _navbar.md -->
-* [动手学深度学习](./book/动手学深度学习web版/README.md)
+<!-- * [动手学深度学习](./book/动手学深度学习web版/README.md)
   - [第2章-预备知识](book/动手学深度学习web版/第2章-预备知识/README.md)
   - [第3章-线性神经网络](book/动手学深度学习web版/第3章-线性神经网络/README.md)
   - [第4章-多层感知机](book/动手学深度学习web版/第4章-多层感知机/README.md)
@@ -11,7 +11,7 @@
   - [第10章-注意力机制](book/动手学深度学习web版/第10章-注意力机制/README.md)
   - [第12章-计算性能](book/动手学深度学习web版/第12章-计算性能/README.md)
   - [第13章-计算机视觉](book/动手学深度学习web版/第13章-计算机视觉/README.md)
-  - [第14章-预训练](book/动手学深度学习web版/第14章-预训练/README.md)
+  - [第14章-预训练](book/动手学深度学习web版/第14章-预训练/README.md) -->
 
 * [鸢尾花书](./book/Book系列/README.md)
   - ```pdf
@@ -68,7 +68,7 @@
   - [动手学深度学习](book\动手学深度学习web版\README.md)
 
 
-* [AIBook](./Article/dl/README.md)
+* [AIBook](./Article/README.md)
   - ```pdf
     Article/《深度学习入门：基于Python的理论与实现》高清中文版.pdf
     ```
@@ -85,27 +85,33 @@
     Article/深度学习入门基于python1.pdf
     ```
 
-* [深度学习](./Article/dl/README.md)
-  - [第1周-深度学习概述](Article/dl/第1周-深度学习概述.md)
+* [深度学习](./book/DL.md)
+  - [深度学习吴恩达](./Article/dl/README.md)
+  - [动手学深度学习](./book/动手学深度学习web版/README.md)
+  - [小土堆深度学习](./book/小土堆/README.md)
+  - [深度学习电子书](./Article/README.md)
+
+
+  <!-- - [第1周-深度学习概述](Article/dl/第1周-深度学习概述.md)
   - [第1周作业题-numpy构建基本函数](Article/dl/第1周作业题-numpy构建基本函数.md)
   - [第2周1_神经网络基础之逻辑回归](Article/dl/第2周1_神经网络基础之逻辑回归.md)
   - [第2周_作业题_神经网络思想实现Logistic回归](Article/dl/第2周_作业题_神经网络思想实现Logistic回归.md)
   - [第3周-浅层神经网络](Article/dl/第3周-浅层神经网络.md)
   - [第3周作业-1层隐藏层的神经网络分类二维数据](Article/dl/第3周作业-1层隐藏层的神经网络分类二维数据.md)
   - [第4周_深层神经网络](Article/dl/第4周_深层神经网络.md)
-  - [第4周_作业题_逐步构建你的深度神经网络](Article/dl/第4周_作业题_逐步构建你的深度神经网络.md)
+  - [第4周_作业题_逐步构建你的深度神经网络](Article/dl/第4周_作业题_逐步构建你的深度神经网络.md) -->
 
 
 * [网络安全](Article\aq\readme.md)
-    - ```pdf
+    <!-- - ```pdf
         Article/aq/《白帽子讲Web安全》 吴翰清.pdf
-        ```
-    - ```pdf
+        ``` -->
+    <!-- - ```pdf
         Article/aq/渗透攻击与安防修炼.pdf
         ```
     - ```pdf
         Article/aq/图解网络硬件.pdf
-        ```
+        ``` -->
     - ```pdf
         Article/aq/网络系统集成与综合布线 （第2版）.pdf
         ```

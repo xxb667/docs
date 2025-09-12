@@ -53,7 +53,7 @@
   - ```pdf
       book/编程/python知识点汇总2.2版.pdf
       ``` -->
-* [动手学深度学习](./book/动手学深度学习web版/README.md)
+* [深度学习](./book/DL.md)
 
 - 友情链接
   - [Docsify](https://docsify.js.org/#/)
